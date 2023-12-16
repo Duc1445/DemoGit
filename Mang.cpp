@@ -107,5 +107,7 @@ int main(){
 	output(c); 
 	hoanvi(c);
 	output(c);
+	cout<<"Hello";
 	return 0;
+	
 }
